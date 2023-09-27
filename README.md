@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://github.com/x72x/">
-        <img src="https://github.com/images/mona-whisper.gif" alt="" width="256">
+        <img src="https://github.com/images/mona-whisper.gif" alt="" width="64">
     </a>
     <a href="https://github.com/x72x?tab=repositories">
         Repositories
@@ -19,12 +19,10 @@
 ---
 - Hi I'm Zaid, 17 y.o from syria.
 
-<details>
-<summary>My top languages</summary>
-
+## My Top Languages
 | Rank | Languages  |
 |-----:|------------|
 |     1| Python     |
 |     2| JavaScript |
 |     3| TypeScript |
-</details>
+
