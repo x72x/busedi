@@ -2,7 +2,7 @@
     <a href="https://github.com/x72x/">
         <img src="https://github.com/images/mona-whisper.gif" alt="" width="64">
     </a>
-    <a href="https://github.com/x72x?tab=repositories">
+    <a href="https://github.com/x72x?tab=repositories&q=&type=&language=&sort=stargazers">
         Repositories
     </a>
     ,
