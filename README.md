@@ -23,6 +23,8 @@
 | Rank | Languages  |
 |-----:|------------|
 |     1| Python     |
-|     2| JavaScript |
+|     2| <a href="https://github.com/x72x/"> <img src="https://www.computerhope.com/jargon/j/javascript.png" width="64"> </a> |
 |     3| TypeScript |
+
+
 
