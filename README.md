@@ -22,9 +22,9 @@
 ## My Top Languages
 | Rank | Languages  |
 |-----:|------------|
-|     1| Python     |
-|     2| <a href="https://github.com/x72x/"> <img src="https://www.computerhope.com/jargon/j/javascript.png" width="64"> </a> |
-|     3| TypeScript |
+|     1| <a href="https://github.com/x72x/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="16"> </a> |
+|     2| <a href="https://github.com/x72x/"> <img src="https://www.computerhope.com/jargon/j/javascript.png" width="16"> </a> |
+|     3| <a href="https://github.com/x72x/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="16"> </a> |
 
 
 
