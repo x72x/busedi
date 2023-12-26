@@ -17,7 +17,7 @@
 
 ## About me
 ---
-- Hi I'm Zaid, 17 y.o from syria.
+- Hi I'm Zaid, 18 y.o from syria.
 
 ## My Top Languages
 ---
